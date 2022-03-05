@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HTAMAYODEV
-- 👀 I’m interested in SAP ABAP / LIFERAY
-- 🌱 I’m currently learning ABAP / LIFERAY DXP
+- 👀 I’m interested in SAP ABAP / LIFERAY / J2EE / Spring Boot
+- 🌱 I’m currently learning ABAP / LIFERAY DXP / Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in LinkedIn: Harvey Tamayo
 
